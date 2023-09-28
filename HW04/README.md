@@ -1,7 +1,7 @@
 # 1/c Jeremy Dryer, 27SEP23, CNS HW04
 
 ## For section two we had to create a new active directory user. They had no administrative privlidges. I created the user Jeremy R. Dryer as it is my name. The screen shot shows that the user Jeremy Dryer is part of the jakekim.nk domain. The next screen shot shows that it does not have any administrator privledges.
-!(DryerAccount.PNG)
+![DryerAccount.PNG]
 !(AccountProperties.PNG)
 
 ## For section 3 we had to logon onto our NUCs using the new account we just created. The screen shot shows that I am logged onto the new account I created and that it is part of the active directory
